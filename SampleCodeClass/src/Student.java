@@ -48,4 +48,8 @@ public class Student {
     }
     // this is main branch
     /*this is newBranch */
+
+    int branchFunction(){
+        return 0;
+    }
 }
