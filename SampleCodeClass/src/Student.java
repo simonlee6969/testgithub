@@ -47,4 +47,8 @@ public class Student {
         return 0;
     }
     /*this is newBranch */
+
+    int branchFunction(){
+        return 0;
+    }
 }
